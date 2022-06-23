@@ -1,0 +1,23 @@
+body {
+    background-color:beige;
+}
+.container {
+    margin: auto;
+    width: 50%;
+}
+
+.container .assignment {
+    margin: auto;
+    width: 60%;
+}
+
+.container .assignment .card {
+    border: 2px solid rebeccapurple;
+    padding: 10px;
+    text-align: center;
+}
+
+.container .assignment form {
+    margin-top: 10px;
+    color: rgb(37, 150, 190);
+}
